@@ -5,6 +5,4 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
-
-Etc, etc, etc
+Sou um cientista de dados em busca, com experiência em programação Python e R. Eu me especializo em técnicas de aprendizado de máquina e disputa de dados. Adoro trabalhar em projetos juntos, então fique à vontade para buscar colaboração! 
